@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+  <vtype accel="3.0" decel="6.0" id="CarA" length="5.0" maxspeed="50.0" sigma="0.5" />
+  <vtype accel="2.0" decel="6.0" id="CarB" length="7.5" maxspeed="50.0" sigma="0.5" />
+  <vtype accel="1.0" decel="5.0" id="CarC" length="5.0" maxspeed="40.0" sigma="0.5" />
+  <vtype accel="1.0" decel="5.0" id="CarD" length="7.5" maxspeed="30.0" sigma="0.5" />
+  
+  <route id="route01" edges="F1 F2 F3 F4 F5 F6 F7"/>
+
+  
+
+  <vehicle depart="0" id="veh0" route="route01" type="CarA" color="1,0,0" /> 
+
+</routes>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d86e0796-c7cd-4a04-ae9e-27aa574b944f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DTT-SUMO-CM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/COMMANDS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/config.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/detector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/detectors.add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/mobility.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/netstate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/output.rou.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/output_old.rou.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.con.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.edg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.net.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.netc.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.nod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.rou.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.sumo.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/prob.typ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/simulation.sumocfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/summary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobility-Datasets/Highway_I5-S_California/Density_1/Mobility_Routing/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2mbRlNeBrnwsMRDdXftoRxsiatP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/James Morgan/PycharmProjects/DTT-SUMO-CM/Mobility-Datasets/Highway_I5-S_California/Density_1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\James Morgan\PycharmProjects\DTT-SUMO-CM\Mobility-Datasets\Highway_I5-S_California\Density_1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d86e0796-c7cd-4a04-ae9e-27aa574b944f" name="Changes" comment="" />
+      <created>1727343439686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727343439686</updated>
+    </task>
+    <servers />
+  </component>
+</project>

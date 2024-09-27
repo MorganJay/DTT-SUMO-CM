@@ -1,0 +1,15 @@
+
+For netconvert :
+
+netconvert –c prob.netc.cfg
+
+For Sumo :
+
+sumo-gui -c prob.sumo.cfg
+
+For TraceExporter :
+
+sumo -c prob.sumo.cfg --netstate-dump netstate.xml
+
+java -jar traceExporter.jar ns2 -n prob.net.xml -t netstate.xml -a activity.tcl -m mobility.tcl -c config.tcl -p 1 -s 0 -b 0 -e 1799
+ 

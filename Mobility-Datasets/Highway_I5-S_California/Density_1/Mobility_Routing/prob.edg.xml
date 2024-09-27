@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges>
+
+  <edge id="E1" from="1" to="2" type="c"/>
+  <edge id="E2" from="2" to="3" type="c"/>
+  <edge id="E3" from="3" to="4" type="d"/>
+  <edge id="E4" from="4" to="5" type="e"/>
+  <edge id="E5" from="5" to="6" type="d"/>
+  <edge id="E6" from="6" to="7" type="d"/>
+  <edge id="E7" from="7" to="8" type="c"/>
+  <edge id="E8" from="8" to="9" type="c"/>
+  <edge id="E9" from="9" to="10" type="d"/>
+  <edge id="E10" from="10" to="11" type="d"/>
+  <edge id="E11" from="11" to="12" type="d"/>
+  <edge id="E12" from="12" to="13" type="d"/>
+  <edge id="E13" from="13" to="14" type="e"/>
+  <edge id="E14" from="14" to="15" type="d"/>
+  <edge id="E15" from="15" to="16" type="d"/>
+  <edge id="E16" from="16" to="17" type="d"/>
+  <edge id="E17" from="17" to="18" type="d"/>
+  <edge id="E18" from="18" to="19" type="e"/>
+  <edge id="E19" from="19" to="20" type="d"/>
+  <edge id="E20" from="20" to="21" type="d"/>
+  <edge id="E21" from="21" to="22" type="d"/>
+  
+  <edge id="S2" from="2S" to="2" type="a"/>
+  <edge id="S6" from="6" to="6S" type="a"/>
+  <edge id="S8" from="8" to="8S" type="a"/>
+  <edge id="S10" from="10S" to="10" type="a"/>
+  <edge id="S11" from="11" to="11S" type="a"/>
+  <edge id="S12" from="12S" to="12" type="a"/>
+  <edge id="S15" from="15S" to="15" type="a"/>
+  <edge id="S17" from="17" to="17S" type="a"/>
+  <edge id="S20" from="20" to="20S" type="a"/>
+  
+</edges>

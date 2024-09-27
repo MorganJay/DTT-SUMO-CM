@@ -1,0 +1,115 @@
+<sumo-detectors>
+ 
+   <e1Detector id="detector1_0" lane="E1_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector1_1" lane="E1_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector1_2" lane="E1_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector1_3" lane="E1_3" pos="50" freq="300" file="detector.xml"/>
+   
+   <e1Detector id="detector2_0" lane="E1_0" pos="1000" freq="300" file="detector.xml"/>
+   <e1Detector id="detector2_1" lane="E1_1" pos="1000" freq="300" file="detector.xml"/>
+   <e1Detector id="detector2_2" lane="E1_2" pos="1000" freq="300" file="detector.xml"/>
+   <e1Detector id="detector2_3" lane="E1_3" pos="1000" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector3_0" lane="E2_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector3_1" lane="E2_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector3_2" lane="E2_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector3_3" lane="E2_3" pos="50" freq="300" file="detector.xml"/>
+ 
+   <e1Detector id="detector4_0" lane="E3_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector4_1" lane="E3_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector4_2" lane="E3_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector4_3" lane="E3_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector4_4" lane="E3_4" pos="50" freq="300" file="detector.xml"/>
+ 	
+ 
+   <e1Detector id="detector5_0" lane="E4_0" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector5_1" lane="E4_1" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector5_2" lane="E4_2" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector5_3" lane="E4_3" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector5_4" lane="E4_4" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector5_5" lane="E4_5" pos="400" freq="300" file="detector.xml"/>
+ 		
+ 
+ 
+   <e1Detector id="detector6_0" lane="E6_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector6_1" lane="E6_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector6_2" lane="E6_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector6_3" lane="E6_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector6_4" lane="E6_4" pos="50" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector8_0" lane="E8_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector8_1" lane="E8_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector8_2" lane="E8_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector8_3" lane="E8_3" pos="50" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector9_0" lane="E9_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector9_1" lane="E9_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector9_2" lane="E9_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector9_3" lane="E9_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector9_4" lane="E9_4" pos="50" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector10_0" lane="E11_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector10_1" lane="E11_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector10_2" lane="E11_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector10_3" lane="E11_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector10_4" lane="E11_4" pos="50" freq="300" file="detector.xml"/>
+   
+   <e1Detector id="detector11_0" lane="E12_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector11_1" lane="E12_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector11_2" lane="E12_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector11_3" lane="E12_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector11_4" lane="E12_4" pos="50" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector12_0" lane="E13_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector12_1" lane="E13_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector12_2" lane="E13_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector12_3" lane="E13_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector12_4" lane="E13_4" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector12_5" lane="E13_5" pos="50" freq="300" file="detector.xml"/>
+   
+   <e1Detector id="detector13_0" lane="E14_0" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector13_1" lane="E14_1" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector13_2" lane="E14_2" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector13_3" lane="E14_3" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector13_4" lane="E14_4" pos="400" freq="300" file="detector.xml"/>
+   
+   <e1Detector id="detector14_0" lane="E15_0" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector14_1" lane="E15_1" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector14_2" lane="E15_2" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector14_3" lane="E15_3" pos="400" freq="300" file="detector.xml"/>
+   <e1Detector id="detector14_4" lane="E15_4" pos="400" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector15_0" lane="E16_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector15_1" lane="E16_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector15_2" lane="E16_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector15_3" lane="E16_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector15_4" lane="E16_4" pos="50" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector16_0" lane="E17_0" pos="30" freq="300" file="detector.xml"/>
+   <e1Detector id="detector16_1" lane="E17_1" pos="30" freq="300" file="detector.xml"/>
+   <e1Detector id="detector16_2" lane="E17_2" pos="30" freq="300" file="detector.xml"/>
+   <e1Detector id="detector16_3" lane="E17_3" pos="30" freq="300" file="detector.xml"/>
+   <e1Detector id="detector16_4" lane="E17_4" pos="30" freq="300" file="detector.xml"/>
+   
+   <e1Detector id="detector17_0" lane="E18_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector17_1" lane="E18_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector17_2" lane="E18_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector17_3" lane="E18_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector17_4" lane="E18_4" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector17_5" lane="E18_5" pos="50" freq="300" file="detector.xml"/>
+   
+   
+   <e1Detector id="detector18_0" lane="E20_0" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector18_1" lane="E20_1" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector18_2" lane="E20_2" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector18_3" lane="E20_3" pos="50" freq="300" file="detector.xml"/>
+   <e1Detector id="detector18_4" lane="E20_4" pos="50" freq="300" file="detector.xml"/>
+   
+</sumo-detectors>

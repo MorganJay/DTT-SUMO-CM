@@ -1,0 +1,1 @@
+<additional-files value="detectors.add.xml"/>
